@@ -1,0 +1,17 @@
+asgiref==3.13.0
+black==26.10.1
+click==8.5.0
+Django==6.1.2
+django-debug-toolbar==8.0.0
+django-extensions==4.1
+django-jodit==0.1.1
+isort==9.0.2
+mypy_extensions==1.1.0
+packaging==26.3
+pathspec==1.1.1
+platformdirs==4.13.5
+pydotplus==2.0.2
+pyparsing==3.0.9
+pytokens==0.4.1
+sqlparse==0.6.0
+tzdata==2026.5
